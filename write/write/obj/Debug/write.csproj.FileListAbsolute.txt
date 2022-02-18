@@ -1,0 +1,10 @@
+C:\Users\twistynado_\source\repos\write\write\bin\Debug\write.exe.config
+C:\Users\twistynado_\source\repos\write\write\bin\Debug\write.exe
+C:\Users\twistynado_\source\repos\write\write\bin\Debug\write.pdb
+C:\Users\twistynado_\source\repos\write\write\obj\Debug\write.csproj.AssemblyReference.cache
+C:\Users\twistynado_\source\repos\write\write\obj\Debug\write.Form1.resources
+C:\Users\twistynado_\source\repos\write\write\obj\Debug\write.Properties.Resources.resources
+C:\Users\twistynado_\source\repos\write\write\obj\Debug\write.csproj.GenerateResource.cache
+C:\Users\twistynado_\source\repos\write\write\obj\Debug\write.csproj.CoreCompileInputs.cache
+C:\Users\twistynado_\source\repos\write\write\obj\Debug\write.exe
+C:\Users\twistynado_\source\repos\write\write\obj\Debug\write.pdb
