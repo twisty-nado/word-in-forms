@@ -8,3 +8,14 @@ C:\Users\twistynado_\source\repos\write\write\obj\Debug\write.csproj.GenerateRes
 C:\Users\twistynado_\source\repos\write\write\obj\Debug\write.csproj.CoreCompileInputs.cache
 C:\Users\twistynado_\source\repos\write\write\obj\Debug\write.exe
 C:\Users\twistynado_\source\repos\write\write\obj\Debug\write.pdb
+C:\Users\devpc\Downloads\word-in-forms-main\word-in-forms-main\write\write\bin\Debug\write.exe.config
+C:\Users\devpc\Downloads\word-in-forms-main\word-in-forms-main\write\write\bin\Debug\write.exe
+C:\Users\devpc\Downloads\word-in-forms-main\word-in-forms-main\write\write\bin\Debug\write.pdb
+C:\Users\devpc\Downloads\word-in-forms-main\word-in-forms-main\write\write\obj\Debug\write.csproj.AssemblyReference.cache
+C:\Users\devpc\Downloads\word-in-forms-main\word-in-forms-main\write\write\obj\Debug\write.csproj.SuggestedBindingRedirects.cache
+C:\Users\devpc\Downloads\word-in-forms-main\word-in-forms-main\write\write\obj\Debug\write.Form1.resources
+C:\Users\devpc\Downloads\word-in-forms-main\word-in-forms-main\write\write\obj\Debug\write.Properties.Resources.resources
+C:\Users\devpc\Downloads\word-in-forms-main\word-in-forms-main\write\write\obj\Debug\write.csproj.GenerateResource.cache
+C:\Users\devpc\Downloads\word-in-forms-main\word-in-forms-main\write\write\obj\Debug\write.csproj.CoreCompileInputs.cache
+C:\Users\devpc\Downloads\word-in-forms-main\word-in-forms-main\write\write\obj\Debug\write.exe
+C:\Users\devpc\Downloads\word-in-forms-main\word-in-forms-main\write\write\obj\Debug\write.pdb
